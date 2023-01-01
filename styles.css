@@ -1,0 +1,41 @@
+body{
+    background-color:lightcyan; 
+}
+#mypic{
+    width: 400px;
+    height: 400px;
+    
+    border-radius: 50%;
+    border-color: blue;
+    margin: 20px;
+    margin-top: 5px;
+    
+}
+#name{
+    font-size: 50px; 
+    font-weight: bold;
+       
+}
+#ab{
+    border-radius:5cm;
+    border-style:solid;
+    border-color: black ;
+    background-color: wheat;
+    padding: 5px;
+    text-align: center  ;  
+    margin-bottom: 20px; 
+}
+#aboutme{
+    font-size: 30px;
+    margin: 10px;
+    color:darkorange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+#codelogo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
