@@ -1,3 +1,19 @@
-#body{
+body{
     background-color: lightcyan;
+    text-align: center;
+}
+
+#title{
+    font-size: 70px;
+    color:rgb(8, 36, 73);
+    font-weight: bold;
+    font-style:initial;
+    margin: 40px;
+    
+}
+
+#sundar{
+    font-size: 30px;
+    color: rgba(201, 10, 90, 0.918);
+    font-weight: bold;
 }

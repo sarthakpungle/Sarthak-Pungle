@@ -2,8 +2,8 @@ body{
     background-color:lightcyan; 
 }
 #mypic{
-    width: 365px;
-    height: 365px;
+    max-width: 450px;
+    max-height: 450px;
     
     border-radius: 50%;
     border-color: blue;
