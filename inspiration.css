@@ -17,3 +17,17 @@ body{
     color: rgba(201, 10, 90, 0.918);
     font-weight: bold;
 }
+
+#insp{
+    color: rgb(50, 68, 170);
+    font-size: 30px;
+    font-weight: 750;
+    font-style:unset;
+    
+}
+
+#bill{
+    font-size: 30px;
+    color: rgba(201, 10, 90, 0.918);
+    font-weight: bold;
+}

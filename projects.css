@@ -1,0 +1,29 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+    
+}
+#myp{
+    font-size: 60px;
+    color: rgb(46, 34, 156);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    margin-top: 30px;
+}
+
+.apps{
+    font-size: 40px;
+    color: cadetblue;
+    font-weight: bold;
+    font-style: oblique;
+    margin-top: 25px;
+}
+
+.o{
+    width: 400px;
+  }
+  .op{
+    font-size: 40px;
+    color: rgb(50, 119, 108);
+  }
